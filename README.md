@@ -4,9 +4,15 @@
 
 ### Usage
 
-Invoke Alfred and type `d <term>` (`d` stands for Dictionary)
+Invoke Alfred and type `d <term>` (`d` stands for Dictionary). Hit enter to see full definition
 
 For now, it works only for Russian words and phrases.
+
+Examples: 
+
+![Instant results](./examples/cmdline.png)
+
+![Full definition](./examples/full.png)
 
 ### Local development
 
